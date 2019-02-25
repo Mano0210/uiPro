@@ -1,0 +1,12 @@
+#card {
+    text-align: center;
+    margin: 25% 10% 0% 10%;
+    box-shadow: 1px 1px 100px 10px rgba(88,88,88,0.2) 
+}
+#usercoverpic{
+    height: 190px;
+    width: 100%;
+}
+#userDetail{
+    padding: 5% 15% 8% 15%;
+}
